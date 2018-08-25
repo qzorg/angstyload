@@ -1,0 +1,1 @@
+this is a stupid idea, but it is a way to load only thumbnails, until an image is clicked, then load the full image, but without requireing reloading the page or using any javascript. this is for use on awaychan.ml.
